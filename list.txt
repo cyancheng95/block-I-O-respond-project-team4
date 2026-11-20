@@ -1,0 +1,8 @@
+drawthepicture.ipynb		it make the graph for read/write operation distribution / request size distribution / respond time over time.
+
+recordpicture.ipynb		it record the graph that we use data to make(markdown).
+
+
+CAM-02-SRV-lvm3.zip		dataset being all compress together.
+
+checkdataset.ipynb		use to check the data if access or not.
