@@ -6,3 +6,5 @@ recordpicture.ipynb		it record the graph that we use data to make(markdown).
 CAM-02-SRV-lvm3.zip		dataset being all compress together.
 
 checkdataset.ipynb		use to check the data if access or not.
+
+chart_1/chart_2/chart_3.html    the graph can see detail.
